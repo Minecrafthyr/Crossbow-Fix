@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "arrow": {
+      "trigger": "minecraft:shot_crossbow"
+    }
+  },
+  "rewards": {
+    "function": "crossbow_fix:shot"
+  }
+}

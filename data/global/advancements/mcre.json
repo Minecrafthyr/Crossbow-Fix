@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "mcre": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": [
+      "A large balanced datapack that tweaks to vanilla and adds lots of features."
+    ],
+    "icon": {
+      "item": "minecraft:crafting_table"
+    },
+    "show_toast": false,
+    "title": "Minecraft Remade"
+  },
+  "parent": "global:dilib"
+}

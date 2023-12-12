@@ -1,0 +1,1 @@
+execute at @a as @e[type=#arrow,tag=!crossbow_fix.checked,distance=..3] run function crossbow_fix:shot/check

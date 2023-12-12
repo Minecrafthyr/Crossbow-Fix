@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "crossbow_fix": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": "Fix multishot crossbow duplicate projectile and wrong projectile count",
+    "icon": {
+      "item": "minecraft:crossbow"
+    },
+    "show_toast": false,
+    "title": "Crossbow Fix"
+  },
+  "parent": "global:mcre"
+}

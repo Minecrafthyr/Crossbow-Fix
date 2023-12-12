@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "mainhand": {
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:crossbow"
+          ],
+          "nbt": "{Charged:1b}"
+        },
+        "player": {
+          "equipment": {
+            "mainhand": {
+              "items": [
+                "minecraft:crossbow"
+              ],
+              "nbt": "{Charged:1b}"
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:using_item"
+    }
+  },
+  "rewards": {
+    "function": "crossbow_fix:mainhand"
+  }
+}
