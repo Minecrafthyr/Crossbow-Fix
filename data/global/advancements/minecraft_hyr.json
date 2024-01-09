@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "minecraft_hyr": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": "[Creator] [Offline player] Birthday: 2009",
+    "icon": {
+      "item": "minecraft:player_head"
+    },
+    "show_toast": false,
+    "title": "Minecraft_hyr"
+  },
+  "parent": "global:root"
+}
